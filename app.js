@@ -1,5 +1,5 @@
 function cliqueAlert(){
-    exercicio2_2();
+    
 }
 
 function exercicio1(altura, peso){
